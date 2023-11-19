@@ -1,0 +1,18 @@
+
+burger:https://www.iconfinder.com/icons/1845727/burger_fast%20food_food_hamburger_icon
+apple: https://www.iconfinder.com/icons/8665023/apple_whole_icon
+drinkhttps://cdn1.iconfinder.com/data/icons/food-and-drink-vol-1-1/512/4-256.png
+dessert:https://cdn3.iconfinder.com/data/icons/fast-food-solid-tasty-happy-meal/512/Pancake_with_syrup-256.png
+greens: https://cdn3.iconfinder.com/data/icons/fruit-and-vegetables-glyph-1/32/Fruits_and_Vegetables_vegetable_food_broccoli-256.png
+coffe: https://www.iconfinder.com/icons/185113/coffee_icon
+car:https://www.iconfinder.com/icons/8541772/car_transport_icon
+bus: https://www.iconfinder.com/icons/134138/bus_transportation_public_icon
+aviones :https://www.iconfinder.com/icons/134134/flights_plane_flight_departing_icon
+clothes: https://www.iconfinder.com/icons/8665889/shirt_clothes_icon
+game: https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-game-controller-b-512.png
+sport: https://www.iconfinder.com/icons/4843050/bodybuilding_fitness_lifting_sport_weights_icon
+pill:https://www.iconfinder.com/icons/6989154/pill_pharmacy_medicine_medical_painkiller_health_medication_icon
+clean:https://www.iconfinder.com/icons/6989152/prevention_sanitary_mop_cleaning_clean_hygiene_protection_icon
+medical:https://www.iconfinder.com/icons/6602702/firstaid_healthcare_medical_icon
+party:https://www.iconfinder.com/icons/6472607/birthday_celebration_christmas_party_trumpet_xmas_icon
+toolshttps://www.iconfinder.com/icons/8666764/tool_tools_icon
