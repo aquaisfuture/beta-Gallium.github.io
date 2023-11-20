@@ -263,8 +263,6 @@ form button {
   width: 95%; 
   height: 35px; 
   object-fit: contain; 
-  margin-top: 20px; 
-  margin-left: 20px; 
 }
 
 .options{
@@ -463,7 +461,7 @@ margin-left: 6px;
   font-size: 12em;
   text-align: center;
   margin: 0px;
-  background: linear-gradient(45deg, #3f9717, #e73c7e, #9d23d5, #1d0feb);
+  background: linear-gradient(45deg, #971717, #e73c7e, #9d23d5, #1d0feb);
 	background-size: 300%;
 	-webkit-background-clip: text;
 	background-clip: text;
@@ -483,7 +481,7 @@ margin-left: 6px;
   font-size: 1.5em;
   text-align: center;
   margin: 0px;
-  background: linear-gradient(45deg, #cc8787, #a800f7, #03f12a);
+  background: linear-gradient(45deg, #f70707, #a800f7, #f17603);
 	background-size: 300%;
 	-webkit-background-clip: text;
 	background-clip: text;
@@ -493,7 +491,7 @@ margin-left: 6px;
 
 
 .index__paragraph-gradient:hover {
-  background: linear-gradient(45deg, #a904db, #00fc15, #03f12a);
+  background: linear-gradient(45deg, #db0404, #fceb00, #f17603);
 	background-size: 300%;
 	-webkit-background-clip: text;
 	background-clip: text;
@@ -508,7 +506,7 @@ margin-left: 6px;
   margin: 0; /* Asegúrate de que no haya márgenes */
   padding: 3px; /* Asegúrate de que no haya relleno */
   font-size: 1em;
-  outline: 1px solid #03f12a
+  outline: 1px solid #f10303
 }
 
 .special-link:hover {
@@ -945,7 +943,6 @@ main {
 
 .main___content-text {
   font-size: 30em;
-  background-color: #2A2929;
   padding: 1%;
   text-align: justify;
 }
@@ -1030,7 +1027,6 @@ main {
       display: flex;
       flex-direction: column;
       font-size: 0.5em;
-      background-color: #2A2929;
       text-align: justify;
     }
   
@@ -1217,7 +1213,6 @@ main {
   display: flex;
   flex-direction: column;
   font-size: 0.5em;
-  background-color: #2A2929;
   text-align: justify;
 }
 
@@ -1476,14 +1471,13 @@ main {
 }
 
 
-                .main___content {
-                  display: flex;
-                  flex-direction:column ;
-                  font-size: 0.5em;
-                  background-color: #2A2929;
-                  padding: 1%;
-                  text-align: justify;
-                }
+ .main___content {
+   display: flex;
+   flex-direction: column;
+   font-size: 0.5em;
+   padding: 1%;
+   text-align: justify;
+ }
 
 
 .main___content-img-g01 {
